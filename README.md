@@ -1,4 +1,4 @@
-![R3MITT_BLUE](https://github.com/user-attachments/assets/00d051b4-c506-4bdb-8fc2-8bb0a7673025)
+![R3MITT_BLUE1](https://github.com/user-attachments/assets/0e04c36c-ed20-42c5-92dc-d0fe45e7bf00)
 
 # R3mitt stablecoin template
 
@@ -16,27 +16,27 @@ Note:
 ### Deployment Steps
 Note: After each steps, check the next script and adjust the variables accordingly.
 
-# 1. deploy token + proxy
+### 1. deploy token + proxy
    ```shell
      npx hardhat --network holesky run scripts/1_deployProxy.ts
    ```
 
-# 2. verify Stablecoin
+### 2. verify Stablecoin
    ```shell
      npx hardhat --network holesky run scripts/2_deployVerify.ts
    ```
 
-# 3. grant minter role to  admin
+### 3. grant minter role to  admin
    ```shell
      npx hardhat --network holesky run scripts/3_grantRole.ts
    ```
 
-# 4. deploy & verify timelock
+### 4. deploy & verify timelock
    ```shell
      npx hardhat --network holesky run scripts/4_deployTimelock.ts
    ```
 
-# 5. set platform fee info
+### 5. set platform fee info
    ```shell
      npx hardhat --network holesky run scripts/5_setPlatformFeeInfo.ts
    ```
