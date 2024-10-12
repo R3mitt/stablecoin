@@ -1,3 +1,5 @@
+![R3MITT_BLUE](https://github.com/user-attachments/assets/00d051b4-c506-4bdb-8fc2-8bb0a7673025)
+
 # R3mitt stablecoin template
 
 Setup:
