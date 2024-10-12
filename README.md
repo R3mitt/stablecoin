@@ -1,4 +1,4 @@
-![R3MITT_BLUE1](https://github.com/user-attachments/assets/0e04c36c-ed20-42c5-92dc-d0fe45e7bf00)
+![R3MITT_BLUE2](https://github.com/user-attachments/assets/9c19ca4b-8379-49e6-b8cc-366f7597bd06)
 
 # R3mitt stablecoin template
 
